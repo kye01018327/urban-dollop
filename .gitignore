@@ -2,3 +2,4 @@
 *.jsonl
 *.zip
 wiki-pages
+.ipynb_checkpoints
